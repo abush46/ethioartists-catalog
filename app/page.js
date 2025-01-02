@@ -11,7 +11,6 @@ export default function Home() {
           <Discography />
         </div>
       </main>
-      <footer className={styles.footer}></footer>
     </div>
   );
 }

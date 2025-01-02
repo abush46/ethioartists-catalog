@@ -40,3 +40,17 @@ a {
     color-scheme: dark;
   }
 }
+
+header {
+  background-color: aliceblue;
+  padding: 10px;
+}
+.link {
+  margin-left: 30px;
+}
+.footer {
+  grid-row-start: 3;
+  display: flex;
+  gap: 24px;
+  justify-self: center;
+}
