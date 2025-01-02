@@ -20,6 +20,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+<div><h1>Header</h1> 
+</div>
         {children}
       </body>
     </html>
