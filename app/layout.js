@@ -64,8 +64,8 @@ export default function RootLayout({ children }) {
                     </Link>
                   </li>
                   <li class="nav-item">
-                    <Link className="nav-link" href="/Home">
-                      About
+                    <Link className="nav-link" href="/admin">
+                      Admin
                     </Link>
                   </li>
                 </ul>
